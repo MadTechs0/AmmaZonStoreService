@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreBackend", "StoreBackend\StoreBackend.csproj", "{D6B6B8CA-33C8-40AA-8B19-DB7A60EFCF08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreService", "StoreService\StoreService.csproj", "{AF8695AF-A7A9-43F9-8918-BCE61B421A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B6B8CA-33C8-40AA-8B19-DB7A60EFCF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B6B8CA-33C8-40AA-8B19-DB7A60EFCF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B6B8CA-33C8-40AA-8B19-DB7A60EFCF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B6B8CA-33C8-40AA-8B19-DB7A60EFCF08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8695AF-A7A9-43F9-8918-BCE61B421A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8695AF-A7A9-43F9-8918-BCE61B421A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8695AF-A7A9-43F9-8918-BCE61B421A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8695AF-A7A9-43F9-8918-BCE61B421A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF0DD5AF-536B-41A0-97A5-C1071602DA20}
+	EndGlobalSection
+EndGlobal
